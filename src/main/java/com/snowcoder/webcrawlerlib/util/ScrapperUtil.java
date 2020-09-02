@@ -9,5 +9,4 @@ import java.io.IOException;
 
 @Component
 public class ScrapperUtil extends ScrapperService {
-
 }

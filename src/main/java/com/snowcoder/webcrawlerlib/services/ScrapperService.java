@@ -14,7 +14,7 @@ public abstract class ScrapperService {
 
     /**
      *
-     * @param url represenets url of page to be crawled
+     * @param url represents address of page to be crawled
      * @return
      */
     public Document connect(String url){
